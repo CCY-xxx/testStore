@@ -5,6 +5,7 @@ export default class Home extends Component {
         return (
             <div>
                 Home
+                <div>我的家</div>
             </div>
         )
     }
